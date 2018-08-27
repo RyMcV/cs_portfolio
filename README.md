@@ -14,3 +14,5 @@ Portfolio of Computer Science projects
 6. Predicting Housing Prices: Explored the data to obtain important features and descriptive statistics about the dataset and determined a suitable performance metric for this problem to pick the optimal model that best generalizes for unseen data.
 
 7. Teaching a Quadcopter to Fly: Designed an actor-critic model algorithm based on deterministic policy gradient in continuous action spaces.
+
+8. Machine Translation: Built a deep neural network that functions as part of an end-to-end machine translation pipeline, accepting English text as input and returning the French translation.
