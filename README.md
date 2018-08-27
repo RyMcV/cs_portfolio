@@ -1,5 +1,4 @@
-# cs_portfolio
-Portfolio of Computer Science projects
+# Ryan McVicker's Portfolio of Computer Science projects
 
 1. Creating Customer Segments: Applied unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
 
