@@ -15,3 +15,5 @@
 7. Teaching a Quadcopter to Fly: Designed an actor-critic model algorithm based on deterministic policy gradient in continuous action spaces.
 
 8. Machine Translation: Built a deep neural network that functions as part of an end-to-end machine translation pipeline, accepting English text as input and returning the French translation.
+
+9. DNN Speech Recognizer: Designed a deep neural network for automatic speech recognition (ASR) of the LibriSpeech dataset.
